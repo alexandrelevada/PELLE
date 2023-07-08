@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 
-Parametric Entropic Locally Linear Embedding for Non-Linear Feature Extraction in Data Classification
+Parametric Entropic Locally Linear Embedding for Small Sample Size Classification Problems
 
 """
 
